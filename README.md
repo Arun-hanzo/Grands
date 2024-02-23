@@ -28,14 +28,21 @@ Many elderly individuals experience social isolation and loneliness, which can h
 
 ![SDG3](photos/sdg3.png)
 
-HeadHome directly addresses the issue of **dementia wandering**.
+Grands promotes good health and well-being among elderly individuals by fostering **social connections, encouraging physical activity through personalized exercise recommendations, and facilitating access to health-related information**, effectively aligning with the United Nations Sustainable Development Goals on good health and well-being.
 
-Wandering episodes can bring danger to patients such as traffic incidents, with no way to contact their caregivers. Thus, caregivers might feel the need to micromanage their patients, causing significant caregiver stress.
+### SDG 10: Reduced Inequalities (Target: 11.a.1)
 
-HeadHome can help these patients by providing clear and simple instructions on the wearable to guide the patient home. It also sends alerts to their caregiver whenever they need help, removing the need for constant tracking and monitoring.
+![SDG10](photos/sdg10.png)
+
+
+Grands, our social media platform for elderly individuals, addresses the UN Sustainable Development Goal of reducing inequalities by **fostering an inclusive digital community**. Through features like group discussions and shared interest groups, Grands ensures individuals of all backgrounds feel valued and connected.
+
+By encouraging users to share their stories and experiences, Grands promotes a sense of belonging and mutual understanding among elderly individuals. Through this inclusive approach, Grands contributes to social justice and equity, aligning with global efforts to create a more inclusive society.
 
 ### SDG 11: Sustainable Cities and Communities (Target: 11.a.1)
 
-![SDG11](assets/SDG11.png)
+![SDG11](photos/sdg11.png)
 
-HeadHome **leverages the power of the community** to improve the lives of dementia patients. Most caregivers have full-time jobs and cannot be with their loved ones 24/7. To ensure that dementia patients can receive help anytime, we will recruit registered volunteers in the community. Caregivers can send out an SOS message to volunteers near the vulnerable patient, who can guide the patients back home. This builds up an inclusive and socially aware community, which can help these patients when they are in need.
+Grands, our app designed for elderly individuals, contributes to the Sustainable Cities and Communities goal by creating inclusive digital spaces for communities. Through features like group chats and personalized profiles, Grands connects older adults worldwide, regardless of where they live.
+
+By fostering supportive digital neighborhoods, Grands empowers older adults to share urban living insights and resources. This inclusive approach promotes collaboration and resilience, aligning with global efforts for sustainable and inclusive urban development.
