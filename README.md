@@ -26,7 +26,7 @@ Many elderly individuals experience social isolation and loneliness, which can h
 
 ### SDG 3: Good Health and Well-Being (Target: 3.6)
 
-![SDG3](photos/sdg3.png)
+![SDG3](assets/sdg3.png)
 
 HeadHome directly addresses the issue of **dementia wandering**.
 
