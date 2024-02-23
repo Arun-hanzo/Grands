@@ -47,14 +47,13 @@ Grands, our app designed for elderly individuals, contributes to the Sustainable
 
 By fostering supportive digital neighborhoods, Grands empowers older adults to share urban living insights and resources. This inclusive approach promotes collaboration and resilience, aligning with global efforts for sustainable and inclusive urban development.
 
-## Feautres -
+## Features -
 ### Exercise recommendation 🏋️‍♀️-
 The exercise recommendation feature offers tailored recommendations based on the user's health and body conditions, such as joint problems, cardiovascular issues, and balance concerns, etc... Each recommendation is carefully curated to address the user's specific condition, ensuring a safe and effective exercise regimen. By catering to individual needs, our app empowers users to engage in activities that promote overall well-being and mitigate health challenges. 
 With our app, users can confidently embark on their fitness journey knowing that their exercise routine is optimized for their individual health needs, fostering a healthier and more active lifestyle.
 
 ### Avi 🤖(Voice Chatbot) -
 Our chatbot, Avi, offers witty responses and audio interactions, providing both entertainment and information. Additionally, users can train a chatbot with a departed loved one's voice, creating a poignant virtual companion. This innovative feature allows users to reconnect with cherished memories, providing solace and companionship in the digital realm.
-
 For an example , John, an elderly user, trains a chatbot with his late wife's voice recordings, offering him comfort and a sense of connection as he engages in heartfelt conversations with her memory.
 
 ### Medication reminder ⏰📅-
