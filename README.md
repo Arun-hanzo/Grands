@@ -6,7 +6,7 @@ Grands is a social media app dedicated to enhancing the well-being of elderly in
 ## Problem Statement
 
 <br/>
-<blockquote align='center'>
+<blockquote align='left'>
 <h3>
 
 “Social isolation and loneliness are widespread, with an estimated 1 in 4 older people experiencing social isolation”
