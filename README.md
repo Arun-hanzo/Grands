@@ -9,9 +9,9 @@ Grands is a social media app dedicated to enhancing the well-being of elderly in
 <blockquote align='center'>
 <h3>
 
-“6 in 10 people with dementia will experience wandering episodes.”
+“Social isolation and loneliness are widespread, with an estimated 1 in 4 older people experiencing social isolation”
 
-\- Alzheimer's Association
+\- WHO
 
 </h3>
 </blockquote>
