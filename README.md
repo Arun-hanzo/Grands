@@ -55,7 +55,7 @@ Our chatbot, **Avi**, offers witty responses and audio interactions, providing b
 This innovative feature allows users to reconnect with cherished memories, providing solace and companionship in the digital realm.For an example , John, an elderly user, trains a chatbot with his late wife's voice recordings, offering him comfort and a sense of connection as he engages in heartfelt conversations with her memory.
 
 #### Bark
-Grands utilizes Bark, a transformer-based text-to-audio model, in conjunction with Coqui TTS for voice cloning tasks. Bark excels in generating highly realistic speech with minimal audio input, incorporating features like multilingual capabilities and nonverbal expressions such as laughing and crying, enhancing user experience and accessibility.
+Grands utilizes Bark, a transformer-based text-to-audio model, in conjunction with **Coqui** TTS for voice cloning tasks. Bark excels in generating highly realistic speech with minimal audio input, incorporating features like multilingual capabilities and nonverbal expressions such as laughing and crying, enhancing user experience and accessibility.
 
 
 
