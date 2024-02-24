@@ -72,7 +72,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 <div align="center">
 <kbd>
-<img src="./aphotos/Flutter.png" height="60" />
+<img src="./photos/Flutter.png" height="60" />
 </kbd>
 <kbd>
 <img src="./photos/Dart.png" height="60" />
@@ -81,7 +81,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 <img src="./photos/Firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="./photos/bark.webpg" height="60" />
+<img src="./photos/bark.png" height="60" />
 </kbd>
 </kbd>
 <img src="./photos/gemini.png" height="60" />
