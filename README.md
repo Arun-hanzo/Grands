@@ -83,7 +83,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 <kbd>
 <img src="./photos/bark.png" height="60" />
 </kbd>
-</kbd>
+<kbd>
 <img src="./photos/Gemini2.png" height="60" />
 </kbd>
 <kbd>
