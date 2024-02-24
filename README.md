@@ -68,6 +68,41 @@ Grands offers a health records feature, enabling users to track and manage their
 ### Community 🏡👥-
 Grands provides a feature that fosters connections among users, enabling them to share experiences and expertise within their respective domains. Users can unite based on shared work experiences, forming cohesive communities. Additionally, the platform facilitates the creation of new groups and participation in various activities, enhancing engagement and collaboration.
 
+## 👨🏻‍💻 &nbsp;Technology Stack
+
+<div align="center">
+<kbd>
+<img src="./assets/icons/Flutter.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Dart.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Firebase.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/bark.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Dart.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Firebase.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Flutter.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/gemini.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/fastapi.png" height="60" />
+</kbd>
+</div>
+<div align="center">
+<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
+</div>
+
 
 
 ## How to use 
