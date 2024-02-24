@@ -68,7 +68,7 @@ Grands offers a health records feature, enabling users to track and manage their
 ### Community 🏡👥-
 Grands provides a feature that fosters connections among users, enabling them to share experiences and expertise within their respective domains. Users can unite based on shared work experiences, forming cohesive communities. Additionally, the platform facilitates the creation of new groups and participation in various activities, enhancing engagement and collaboration.
 
-## 👨🏻‍💻 &nbsp;Technology Stack
+## 🛠️ &nbsp;Technology Stack
 
 <div align="center">
 <kbd>
