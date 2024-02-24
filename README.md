@@ -53,8 +53,9 @@ The exercise recommendation feature offers tailored recommendations based on the
 With our app, users can confidently embark on their fitness journey knowing that their exercise routine is optimized for their individual health needs, fostering a healthier and more active lifestyle.
 
 ### Avi 🤖(Voice Chatbot) -
-Our chatbot, Avi, offers witty responses and audio interactions, providing both entertainment and information. Additionally, users can train a chatbot with a departed loved one's voice, creating a poignant virtual companion. This innovative feature allows users to reconnect with cherished memories, providing solace and companionship in the digital realm.
-For an example , John, an elderly user, trains a chatbot with his late wife's voice recordings, offering him comfort and a sense of connection as he engages in heartfelt conversations with her memory.
+Our chatbot, **Avi**, offers witty responses and audio interactions, providing both entertainment and information. Additionally, users can train a chatbot with a departed loved one's voice, creating a poignant virtual companion. 
+
+This innovative feature allows users to reconnect with cherished memories, providing solace and companionship in the digital realm.For an example , John, an elderly user, trains a chatbot with his late wife's voice recordings, offering him comfort and a sense of connection as he engages in heartfelt conversations with her memory.
 
 ### Medication reminder ⏰📅-
 Grands features a medication reminder, sending timely alerts to users for dose management. Customizable schedules and dosage instructions optimize medication adherence, promoting better health outcomes.
