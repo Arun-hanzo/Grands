@@ -72,35 +72,26 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 <div align="center">
 <kbd>
-<img src="./assets/icons/Flutter.png" height="60" />
+<img src="./aphotos/Flutter.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Dart.png" height="60" />
+<img src="./photos/Dart.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
+<img src="./photos/Firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/bark.png" height="60" />
+<img src="./photos/bark.webpg" height="60" />
+</kbd>
+</kbd>
+<img src="./photos/gemini.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Dart.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Flutter.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/gemini.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/fastapi.png" height="60" />
+<img src="./photos/fastapi.png" height="60" />
 </kbd>
 </div>
 <div align="center">
-<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
+<h4>Flutter | Dart | Firebase | Bark | Gemini | Fastapi |</h4>
 </div>
 
 
