@@ -84,7 +84,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 <img src="./photos/bark.png" height="60" />
 </kbd>
 </kbd>
-<img src="./photos/gemini.png" height="60" />
+<img src="./photos/gemini1.png" height="60" />
 </kbd>
 <kbd>
 <img src="./photos/fastapi.png" height="60" />
