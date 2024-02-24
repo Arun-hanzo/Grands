@@ -54,6 +54,8 @@ Our chatbot, **Avi**, offers witty responses and audio interactions, providing b
 
 This innovative feature allows users to reconnect with cherished memories, providing solace and companionship in the digital realm.For an example , John, an elderly user, trains a chatbot with his late wife's voice recordings, offering him comfort and a sense of connection as he engages in heartfelt conversations with her memory.
 
+
+
 ### Medication reminder ⏰📅-
 Grands features a medication reminder, sending timely alerts to users for dose management. Customizable schedules and dosage instructions optimize medication adherence, promoting better health outcomes.
 
