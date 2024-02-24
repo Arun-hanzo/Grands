@@ -81,13 +81,13 @@ Grands provides a feature that fosters connections among users, enabling them to
 <img src="./photos/Firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="./photos/bark.png" height="50" />
+<img src="./photos/bark.png" height="60" />
 </kbd>
 </kbd>
-<img src="./photos/gemini.png" height="40" />
+<img src="./photos/gemini.png" height="60" />
 </kbd>
 <kbd>
-<img src="./photos/fastapi.png" height="50" />
+<img src="./photos/fastapi.png" height="60" />
 </kbd>
 </div>
 <div align="center">
