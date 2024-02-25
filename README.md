@@ -97,4 +97,11 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 
 ## How to use 
+### a) By using Grands APK file -
+1) Download the given APK file in your Android and use it .
+### b)To run in local computer -
+1) Clone Repo
+```
+
+```
 
