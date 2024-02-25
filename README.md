@@ -97,11 +97,23 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 
 ## How to use 
-### a) By using Grands APK file -
+### a) By downloading Grands APK file -
 1) Download the given APK file in your Android and use it .
 ### b)To run in local computer -
 1) Clone Repo
 ```
-
+https://github.com/Deeks010/Grands.git
+```
+2)Install the required tools 🛠️ 
+```
+pip install -r requirements.txt
+```
+3) Install bark model in your local PC 🖥️
+  ```
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
+```
+4)Launch the application
+```
 ```
 
