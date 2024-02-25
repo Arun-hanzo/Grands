@@ -104,7 +104,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 ```
 https://github.com/Deeks010/Grands.git
 ```
-2)Install the required tools 🛠️ 
+2) Install the required tools 🛠️ 
 ```
 pip install -r requirements.txt
 ```
@@ -113,7 +113,7 @@ pip install -r requirements.txt
 from huggingface_hub import snapshot_download
 snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
 ```
-4)Launch the application
+4) Launch the application
 ```
 ```
 
