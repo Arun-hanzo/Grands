@@ -28,7 +28,7 @@ Many elderly individuals experience social isolation and loneliness, which can h
 
 ![SDG3](photos/sdg3.png)
 
-Grands promotes good health and well-being among elderly individuals by fostering **social connections, encouraging physical activity through personalized exercise recommendations, and facilitating access to health-related information**, effectively aligning with the United Nations Sustainable Development Goals on good health and well-being.
+Grands promotes good health and well-being among elderly individuals by fostering **social connections, encouraging through facilitating access to health-related information and medication remainder.**, effectively aligning with the United Nations Sustainable Development Goals on good health and well-being.
 
 ### SDG 10: Reduced Inequalities (Target: 10.2)
 
@@ -115,5 +115,6 @@ snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
 ```
 4) Launch the application
 ```
+npm dev run
 ```
 
